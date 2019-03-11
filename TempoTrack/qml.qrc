@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BarModelDelegate.qml</file>
+        <file>beatmodel.cpp</file>
+        <file>BeatModelDelegate.qml</file>
+        <file>Marker.qml</file>
+        <file>SquareButton.qml</file>
+        <file>SquareButtonItem.qml</file>
+        <file>SquareButtonItem2.qml</file>
+        <file>TempoTip.qml</file>
+        <file>img/dots_icon.svg</file>
+        <file>img/lines_icon.svg</file>
+        <file>img/minus_icon.png</file>
+        <file>img/minus_icon.svg</file>
+        <file>img/pin_icon.png</file>
+        <file>img/plus_icon.png</file>
+        <file>img/plus_icon.svg</file>
+        <file>img/selected_icon.png</file>
+        <file>img/selected_icon.svg</file>
+    </qresource>
+</RCC>
